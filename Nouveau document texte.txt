@@ -1,0 +1,2 @@
+npm i body-parser express mongoose nodemon
+npm i -D babel-cli babel-preset-env babel-preset-stage-0 
